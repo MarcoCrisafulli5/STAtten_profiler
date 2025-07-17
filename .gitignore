@@ -2,3 +2,4 @@ STAtten/cifar10
 STAtten/cifar100
 STAtten/Inaturalist
 STAtten/.git/*
+.gitignore
