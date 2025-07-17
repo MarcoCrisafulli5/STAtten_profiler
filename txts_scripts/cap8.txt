@@ -1,0 +1,1600 @@
+sparsity x_for_qkv: 0.6412810241284014
+sparsity q: 0.9757071774022109
+sparsity k: 0.9760708971088435
+sparsity v: 0.9756241363732994
+sparsity Attention q_chunks: 0.9757071774022109
+sparsity Attention k_chunks: 0.9760708971088435
+sparsity Attention v_chunks: 0.9756241363732994
+sparsity Attention postReshape q_chunks: 0.9757071774022109
+sparsity Attention postReshape k_chunks: 0.9760708971088435
+sparsity Attention postReshape v_chunks: 0.9756241363732994
+sparsity Attention out: 0.632790909332483
+sparsity Attention postReshape output: 0.632790909332483
+sparsity Attention postReshape x: 1.0
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6499588116496599
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9751196621226615
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6434101961096939
+sparsity q: 0.9716198979591837
+sparsity k: 0.9721463780824829
+sparsity v: 0.971751102784864
+sparsity Attention q_chunks: 0.9716198979591837
+sparsity Attention k_chunks: 0.9721463780824829
+sparsity Attention v_chunks: 0.971751102784864
+sparsity Attention postReshape q_chunks: 0.9716198979591837
+sparsity Attention postReshape k_chunks: 0.9721463780824829
+sparsity Attention postReshape v_chunks: 0.971751102784864
+sparsity Attention out: 0.5036787175807823
+sparsity Attention postReshape output: 0.5036787175807823
+sparsity Attention postReshape x: 0.9999767485119048
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6487165178571428
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9714828802614796
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6438287228954082
+sparsity q: 0.9697415098852041
+sparsity k: 0.9702048788265306
+sparsity v: 0.9700404575892857
+sparsity Attention q_chunks: 0.9697415098852041
+sparsity Attention k_chunks: 0.9702048788265306
+sparsity Attention v_chunks: 0.9700404575892857
+sparsity Attention postReshape q_chunks: 0.9697415098852041
+sparsity Attention postReshape k_chunks: 0.9702048788265306
+sparsity Attention postReshape v_chunks: 0.9700404575892857
+sparsity Attention out: 0.4452145115858843
+sparsity Attention postReshape output: 0.4452145115858843
+sparsity Attention postReshape x: 0.9999618011267006
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6478545519770409
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9694633224383503
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6430830144557823
+sparsity q: 0.9683281515731292
+sparsity k: 0.9689708891369048
+sparsity v: 0.9684062101403061
+sparsity Attention q_chunks: 0.9683281515731292
+sparsity Attention k_chunks: 0.9689708891369048
+sparsity Attention v_chunks: 0.9684062101403061
+sparsity Attention postReshape q_chunks: 0.9683281515731292
+sparsity Attention postReshape k_chunks: 0.9689708891369048
+sparsity Attention postReshape v_chunks: 0.9684062101403061
+sparsity Attention out: 0.39639469068877553
+sparsity Attention postReshape output: 0.39639469068877553
+sparsity Attention postReshape x: 0.9999418712797619
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6453683035714286
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9681334203603317
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6417809311224489
+sparsity q: 0.9675641741071429
+sparsity k: 0.9675674957482994
+sparsity v: 0.9676605017006803
+sparsity Attention q_chunks: 0.9675641741071429
+sparsity Attention k_chunks: 0.9675674957482994
+sparsity Attention v_chunks: 0.9676605017006803
+sparsity Attention postReshape q_chunks: 0.9675641741071429
+sparsity Attention postReshape k_chunks: 0.9675674957482994
+sparsity Attention postReshape v_chunks: 0.9676605017006803
+sparsity Attention out: 0.37135948129251706
+sparsity Attention postReshape output: 0.37135948129251706
+sparsity Attention postReshape x: 0.9999036724064626
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6429268973214286
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9674475014615221
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6400985198767006
+sparsity q: 0.9667354246386054
+sparsity k: 0.9664082429846939
+sparsity v: 0.9666872608418368
+sparsity Attention q_chunks: 0.9667354246386054
+sparsity Attention k_chunks: 0.9664082429846939
+sparsity Attention v_chunks: 0.9666872608418368
+sparsity Attention postReshape q_chunks: 0.9667354246386054
+sparsity Attention postReshape k_chunks: 0.9664082429846939
+sparsity Attention postReshape v_chunks: 0.9666872608418368
+sparsity Attention out: 0.34011612457483
+sparsity Attention postReshape output: 0.34011612457483
+sparsity Attention postReshape x: 0.9998438828656463
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6406764854379252
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9665693425807823
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6384210910926871
+sparsity q: 0.9660943478954082
+sparsity k: 0.9660843829719388
+sparsity v: 0.9664763366284014
+sparsity Attention q_chunks: 0.9660943478954082
+sparsity Attention k_chunks: 0.9660843829719388
+sparsity Attention v_chunks: 0.9664763366284014
+sparsity Attention postReshape q_chunks: 0.9660943478954082
+sparsity Attention postReshape k_chunks: 0.9660843829719388
+sparsity Attention postReshape v_chunks: 0.9664763366284014
+sparsity Attention out: 0.322624362244898
+sparsity Attention postReshape output: 0.322624362244898
+sparsity Attention postReshape x: 0.9998239530187075
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6392365539965986
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9661653479751275
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6371389376062926
+sparsity q: 0.9655529203869048
+sparsity k: 0.9657472363945578
+sparsity v: 0.9658020434736394
+sparsity Attention q_chunks: 0.9655529203869048
+sparsity Attention k_chunks: 0.9657472363945578
+sparsity Attention v_chunks: 0.9658020434736394
+sparsity Attention postReshape q_chunks: 0.9655529203869048
+sparsity Attention postReshape k_chunks: 0.9657472363945578
+sparsity Attention postReshape v_chunks: 0.9658020434736394
+sparsity Attention out: 0.31120622076955784
+sparsity Attention postReshape output: 0.31120622076955784
+sparsity Attention postReshape x: 0.9997326078869048
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6371372767857143
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9655786631058674
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6371621890943877
+sparsity q: 0.9758084874574829
+sparsity k: 0.9761904761904762
+sparsity v: 0.975916440795068
+sparsity Attention q_chunks: 0.9758084874574829
+sparsity Attention k_chunks: 0.9761904761904762
+sparsity Attention v_chunks: 0.975916440795068
+sparsity Attention postReshape q_chunks: 0.9758084874574829
+sparsity Attention postReshape k_chunks: 0.9761904761904762
+sparsity Attention postReshape v_chunks: 0.975916440795068
+sparsity Attention out: 0.6409837372448979
+sparsity Attention postReshape output: 0.6409837372448979
+sparsity Attention postReshape x: 0.9999983391794217
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6370791480654762
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9758309085352891
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6322395169005102
+sparsity q: 0.9726296768707483
+sparsity k: 0.9724718989158163
+sparsity v: 0.9727326477465986
+sparsity Attention q_chunks: 0.9726296768707483
+sparsity Attention k_chunks: 0.9724718989158163
+sparsity Attention v_chunks: 0.9727326477465986
+sparsity Attention postReshape q_chunks: 0.9726296768707483
+sparsity Attention postReshape k_chunks: 0.9724718989158163
+sparsity Attention postReshape v_chunks: 0.9727326477465986
+sparsity Attention out: 0.5291274713010203
+sparsity Attention postReshape output: 0.5291274713010203
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6337541852678572
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9724706533003826
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6309341119260203
+sparsity q: 0.9705719201743197
+sparsity k: 0.9703975340136054
+sparsity v: 0.9706433354591837
+sparsity Attention q_chunks: 0.9705719201743197
+sparsity Attention k_chunks: 0.9703975340136054
+sparsity Attention v_chunks: 0.9706433354591837
+sparsity Attention postReshape q_chunks: 0.9705719201743197
+sparsity Attention postReshape k_chunks: 0.9703975340136054
+sparsity Attention postReshape v_chunks: 0.9706433354591837
+sparsity Attention out: 0.4584512515943877
+sparsity Attention postReshape output: 0.4584512515943877
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.633041693239796
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9705034113254677
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6298894557823129
+sparsity q: 0.9692930883290817
+sparsity k: 0.9689144212372449
+sparsity v: 0.9689343510841837
+sparsity Attention q_chunks: 0.9692930883290817
+sparsity Attention k_chunks: 0.9689144212372449
+sparsity Attention v_chunks: 0.9689343510841837
+sparsity Attention postReshape q_chunks: 0.9692930883290817
+sparsity Attention postReshape k_chunks: 0.9689144212372449
+sparsity Attention postReshape v_chunks: 0.9689343510841837
+sparsity Attention out: 0.41652715773809523
+sparsity Attention postReshape output: 0.41652715773809523
+sparsity Attention postReshape x: 0.9999784093324829
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6315535980017006
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9690539301658163
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6294044961734694
+sparsity q: 0.9685125026573129
+sparsity k: 0.9678631218112245
+sparsity v: 0.9680856717687075
+sparsity Attention q_chunks: 0.9685125026573129
+sparsity Attention k_chunks: 0.9678631218112245
+sparsity Attention v_chunks: 0.9680856717687075
+sparsity Attention postReshape q_chunks: 0.9685125026573129
+sparsity Attention postReshape k_chunks: 0.9678631218112245
+sparsity Attention postReshape v_chunks: 0.9680856717687075
+sparsity Attention out: 0.3756975446428571
+sparsity Attention postReshape output: 0.3756975446428571
+sparsity Attention postReshape x: 0.9999651227678571
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6313127790178572
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9678382095025511
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6287185772746599
+sparsity q: 0.9674927588222789
+sparsity k: 0.9671572730654762
+sparsity v: 0.9673100685586735
+sparsity Attention q_chunks: 0.9674927588222789
+sparsity Attention k_chunks: 0.9671572730654762
+sparsity Attention v_chunks: 0.9673100685586735
+sparsity Attention postReshape q_chunks: 0.9674927588222789
+sparsity Attention postReshape k_chunks: 0.9671572730654762
+sparsity Attention postReshape v_chunks: 0.9673100685586735
+sparsity Attention out: 0.35255068824404767
+sparsity Attention postReshape output: 0.35255068824404767
+sparsity Attention postReshape x: 0.9999634619472789
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6306268601190477
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9672793433779762
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.628677056760204
+sparsity q: 0.9667453895620748
+sparsity k: 0.9669247581845238
+sparsity v: 0.9669446880314626
+sparsity Attention q_chunks: 0.9667453895620748
+sparsity Attention k_chunks: 0.9669247581845238
+sparsity Attention v_chunks: 0.9669446880314626
+sparsity Attention postReshape q_chunks: 0.9667453895620748
+sparsity Attention postReshape k_chunks: 0.9669247581845238
+sparsity Attention postReshape v_chunks: 0.9669446880314626
+sparsity Attention out: 0.3406309789540817
+sparsity Attention postReshape output: 0.3406309789540817
+sparsity Attention postReshape x: 0.9999584794855442
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6298794908588435
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9667312725871599
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6283598400297619
+sparsity q: 0.9665145355017006
+sparsity k: 0.9661840322066326
+sparsity v: 0.9664397985756803
+sparsity Attention q_chunks: 0.9665145355017006
+sparsity Attention k_chunks: 0.9661840322066326
+sparsity Attention v_chunks: 0.9664397985756803
+sparsity Attention postReshape q_chunks: 0.9665145355017006
+sparsity Attention postReshape k_chunks: 0.9661840322066326
+sparsity Attention postReshape v_chunks: 0.9664397985756803
+sparsity Attention out: 0.3242735570790817
+sparsity Attention postReshape output: 0.3242735570790817
+sparsity Attention postReshape x: 0.9998920466624149
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6288497821003401
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9660453536883503
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6376122714710885
+sparsity q: 0.9757985225340136
+sparsity k: 0.9761672247023809
+sparsity v: 0.975743715454932
+sparsity Attention q_chunks: 0.9757985225340136
+sparsity Attention k_chunks: 0.9761672247023809
+sparsity Attention v_chunks: 0.975743715454932
+sparsity Attention postReshape q_chunks: 0.9757985225340136
+sparsity Attention postReshape k_chunks: 0.9761672247023809
+sparsity Attention postReshape v_chunks: 0.975743715454932
+sparsity Attention out: 0.6370143760629252
+sparsity Attention postReshape output: 0.6370143760629252
+sparsity Attention postReshape x: 1.0
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6378995934311225
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9754410309045494
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6326630261479591
+sparsity q: 0.9724901679421769
+sparsity k: 0.9723141209608843
+sparsity v: 0.9726346593324829
+sparsity Attention q_chunks: 0.9724901679421769
+sparsity Attention k_chunks: 0.9723141209608843
+sparsity Attention v_chunks: 0.9726346593324829
+sparsity Attention postReshape q_chunks: 0.9724901679421769
+sparsity Attention postReshape k_chunks: 0.9723141209608843
+sparsity Attention postReshape v_chunks: 0.9726346593324829
+sparsity Attention out: 0.527430112670068
+sparsity Attention postReshape output: 0.527430112670068
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6328805936437074
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9722568226509354
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.629984122555272
+sparsity q: 0.9704523410926871
+sparsity k: 0.9703925515518708
+sparsity v: 0.9706566220238095
+sparsity Attention q_chunks: 0.9704523410926871
+sparsity Attention k_chunks: 0.9703925515518708
+sparsity Attention v_chunks: 0.9706566220238095
+sparsity Attention postReshape q_chunks: 0.9704523410926871
+sparsity Attention postReshape k_chunks: 0.9703925515518708
+sparsity Attention postReshape v_chunks: 0.9706566220238095
+sparsity Attention out: 0.45614437181122447
+sparsity Attention postReshape output: 0.45614437181122447
+sparsity Attention postReshape x: 0.9999817309736394
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6298363095238095
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9705262476084183
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6268019903273809
+sparsity q: 0.9694575095663265
+sparsity k: 0.9694757785926871
+sparsity v: 0.9694923867984694
+sparsity Attention q_chunks: 0.9694575095663265
+sparsity Attention k_chunks: 0.9694757785926871
+sparsity Attention v_chunks: 0.9694923867984694
+sparsity Attention postReshape q_chunks: 0.9694575095663265
+sparsity Attention postReshape k_chunks: 0.9694757785926871
+sparsity Attention postReshape v_chunks: 0.9694923867984694
+sparsity Attention out: 0.424876102784864
+sparsity Attention postReshape output: 0.424876102784864
+sparsity Attention postReshape x: 0.9999933567176871
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6278981319090136
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9693258895355017
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6267538265306123
+sparsity q: 0.9683680112670068
+sparsity k: 0.9684759646045918
+sparsity v: 0.9684527131164966
+sparsity Attention q_chunks: 0.9683680112670068
+sparsity Attention k_chunks: 0.9684759646045918
+sparsity Attention v_chunks: 0.9684527131164966
+sparsity Attention postReshape q_chunks: 0.9683680112670068
+sparsity Attention postReshape k_chunks: 0.9684759646045918
+sparsity Attention postReshape v_chunks: 0.9684527131164966
+sparsity Attention out: 0.3887316645408163
+sparsity Attention postReshape output: 0.3887316645408163
+sparsity Attention postReshape x: 0.9999833917942177
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6272935932185374
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9684601868090986
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6254384566326531
+sparsity q: 0.9679179288903061
+sparsity k: 0.9677036830357143
+sparsity v: 0.9676521975977891
+sparsity Attention q_chunks: 0.9679179288903061
+sparsity Attention k_chunks: 0.9677036830357143
+sparsity Attention v_chunks: 0.9676521975977891
+sparsity Attention postReshape q_chunks: 0.9679179288903061
+sparsity Attention postReshape k_chunks: 0.9677036830357143
+sparsity Attention postReshape v_chunks: 0.9676521975977891
+sparsity Attention out: 0.3656678491709183
+sparsity Attention postReshape output: 0.3656678491709183
+sparsity Attention postReshape x: 0.9999468537414966
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6257639774659864
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.967722782472364
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6240466889880952
+sparsity q: 0.967127378295068
+sparsity k: 0.9670974835246599
+sparsity v: 0.9671672379889455
+sparsity Attention q_chunks: 0.967127378295068
+sparsity Attention k_chunks: 0.9670974835246599
+sparsity Attention v_chunks: 0.9671672379889455
+sparsity Attention postReshape q_chunks: 0.967127378295068
+sparsity Attention postReshape k_chunks: 0.9670974835246599
+sparsity Attention postReshape v_chunks: 0.9671672379889455
+sparsity Attention out: 0.34673781622023814
+sparsity Attention postReshape output: 0.34673781622023814
+sparsity Attention postReshape x: 0.999956818664966
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6246944090136055
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9669812260841837
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6239636479591837
+sparsity q: 0.9666523836096939
+sparsity k: 0.9666706526360545
+sparsity v: 0.9664564067814626
+sparsity Attention q_chunks: 0.9666523836096939
+sparsity Attention k_chunks: 0.9666706526360545
+sparsity Attention v_chunks: 0.9664564067814626
+sparsity Attention postReshape q_chunks: 0.9666523836096939
+sparsity Attention postReshape k_chunks: 0.9666706526360545
+sparsity Attention postReshape v_chunks: 0.9664564067814626
+sparsity Attention out: 0.3323733790391157
+sparsity Attention postReshape output: 0.3323733790391157
+sparsity Attention postReshape x: 0.9999219414328231
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.624913637329932
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9665083074245323
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.637673721832483
+sparsity q: 0.97585831207483
+sparsity k: 0.9759197624362245
+sparsity v: 0.9756257971938775
+sparsity Attention q_chunks: 0.97585831207483
+sparsity Attention k_chunks: 0.9759197624362245
+sparsity Attention v_chunks: 0.9756257971938775
+sparsity Attention postReshape q_chunks: 0.97585831207483
+sparsity Attention postReshape k_chunks: 0.9759197624362245
+sparsity Attention postReshape v_chunks: 0.9756257971938775
+sparsity Attention out: 0.6335764774659864
+sparsity Attention postReshape output: 0.6335764774659864
+sparsity Attention postReshape x: 0.9999966783588435
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6373515226403061
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9756008848852041
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6323939732142857
+sparsity q: 0.9721895594175171
+sparsity k: 0.9720699803358843
+sparsity v: 0.9722726004464286
+sparsity Attention q_chunks: 0.9721895594175171
+sparsity Attention k_chunks: 0.9720699803358843
+sparsity Attention v_chunks: 0.9722726004464286
+sparsity Attention postReshape q_chunks: 0.9721895594175171
+sparsity Attention postReshape k_chunks: 0.9720699803358843
+sparsity Attention postReshape v_chunks: 0.9722726004464286
+sparsity Attention out: 0.5160601349914966
+sparsity Attention postReshape output: 0.5160601349914966
+sparsity Attention postReshape x: 0.9999916958971088
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6329951902636055
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9722107348798894
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6296635841836735
+sparsity q: 0.9705918500212585
+sparsity k: 0.9703576743197279
+sparsity v: 0.9706234056122449
+sparsity Attention q_chunks: 0.9705918500212585
+sparsity Attention k_chunks: 0.9703576743197279
+sparsity Attention v_chunks: 0.9706234056122449
+sparsity Attention postReshape q_chunks: 0.9705918500212585
+sparsity Attention postReshape k_chunks: 0.9703576743197279
+sparsity Attention postReshape v_chunks: 0.9706234056122449
+sparsity Attention out: 0.4560812606292517
+sparsity Attention postReshape output: 0.4560812606292517
+sparsity Attention postReshape x: 0.9999916958971088
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6303793978528911
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9703871538849915
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6283448926445578
+sparsity q: 0.969324643920068
+sparsity k: 0.9689343510841837
+sparsity v: 0.96951065582483
+sparsity Attention q_chunks: 0.969324643920068
+sparsity Attention k_chunks: 0.9689343510841837
+sparsity Attention v_chunks: 0.96951065582483
+sparsity Attention postReshape q_chunks: 0.969324643920068
+sparsity Attention postReshape k_chunks: 0.9689343510841837
+sparsity Attention postReshape v_chunks: 0.96951065582483
+sparsity Attention out: 0.41966444781037415
+sparsity Attention postReshape output: 0.41966444781037415
+sparsity Attention postReshape x: 0.9999784093324829
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6284163079294218
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.969273988892432
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6262140598426871
+sparsity q: 0.9685191459396258
+sparsity k: 0.9683015784438775
+sparsity v: 0.9681172273596939
+sparsity Attention q_chunks: 0.9685191459396258
+sparsity Attention k_chunks: 0.9683015784438775
+sparsity Attention v_chunks: 0.9681172273596939
+sparsity Attention postReshape q_chunks: 0.9685191459396258
+sparsity Attention postReshape k_chunks: 0.9683015784438775
+sparsity Attention postReshape v_chunks: 0.9681172273596939
+sparsity Attention out: 0.383013459289966
+sparsity Attention postReshape output: 0.383013459289966
+sparsity Attention postReshape x: 0.9999684444090136
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6265993702168368
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9684028884991497
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6256942230017006
+sparsity q: 0.9673964312287415
+sparsity k: 0.9678249229379252
+sparsity v: 0.9677767591411565
+sparsity Attention q_chunks: 0.9673964312287415
+sparsity Attention k_chunks: 0.9678249229379252
+sparsity Attention v_chunks: 0.9677767591411565
+sparsity Attention postReshape q_chunks: 0.9673964312287415
+sparsity Attention postReshape k_chunks: 0.9678249229379252
+sparsity Attention postReshape v_chunks: 0.9677767591411565
+sparsity Attention out: 0.3652526440263606
+sparsity Attention postReshape output: 0.3652526440263606
+sparsity Attention postReshape x: 0.9999750876913265
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6267388791454082
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9675459050807823
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6257739423894557
+sparsity q: 0.9669230973639455
+sparsity k: 0.9673117293792517
+sparsity v: 0.9665743250425171
+sparsity Attention q_chunks: 0.9669230973639455
+sparsity Attention k_chunks: 0.9673117293792517
+sparsity Attention v_chunks: 0.9665743250425171
+sparsity Attention postReshape q_chunks: 0.9669230973639455
+sparsity Attention postReshape k_chunks: 0.9673117293792517
+sparsity Attention postReshape v_chunks: 0.9665743250425171
+sparsity Attention out: 0.33843537414965985
+sparsity Attention postReshape output: 0.33843537414965985
+sparsity Attention postReshape x: 0.9999634619472789
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6264316273384354
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9669683547247023
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6252574271896258
+sparsity q: 0.9665344653486394
+sparsity k: 0.9662953071853742
+sparsity v: 0.9669579745960885
+sparsity Attention q_chunks: 0.9665344653486394
+sparsity Attention k_chunks: 0.9662953071853742
+sparsity Attention v_chunks: 0.9669579745960885
+sparsity Attention postReshape q_chunks: 0.9665344653486394
+sparsity Attention postReshape k_chunks: 0.9662953071853742
+sparsity Attention postReshape v_chunks: 0.9669579745960885
+sparsity Attention out: 0.33388472576530615
+sparsity Attention postReshape output: 0.33388472576530615
+sparsity Attention postReshape x: 0.9999202806122449
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6259300595238095
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9665236700148809
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6374827274659864
+sparsity q: 0.9759579613095238
+sparsity k: 0.9761639030612245
+sparsity v: 0.9757254464285714
+sparsity Attention q_chunks: 0.9759579613095238
+sparsity Attention k_chunks: 0.9761639030612245
+sparsity Attention v_chunks: 0.9757254464285714
+sparsity Attention postReshape q_chunks: 0.9759579613095238
+sparsity Attention postReshape k_chunks: 0.9761639030612245
+sparsity Attention postReshape v_chunks: 0.9757254464285714
+sparsity Attention out: 0.6397613732993197
+sparsity Attention postReshape output: 0.6397613732993197
+sparsity Attention postReshape x: 0.9999983391794217
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6377401546556123
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9755390193186649
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6326995642006803
+sparsity q: 0.9724038052721088
+sparsity k: 0.9726927880527211
+sparsity v: 0.9724951504039115
+sparsity Attention q_chunks: 0.9724038052721088
+sparsity Attention k_chunks: 0.9726927880527211
+sparsity Attention v_chunks: 0.9724951504039115
+sparsity Attention postReshape q_chunks: 0.9724038052721088
+sparsity Attention postReshape k_chunks: 0.9726927880527211
+sparsity Attention postReshape v_chunks: 0.9724951504039115
+sparsity Attention out: 0.5249671157525511
+sparsity Attention postReshape output: 0.5249671157525511
+sparsity Attention postReshape x: 0.9999933567176871
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6331413424744898
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9723323899872449
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.630234906462585
+sparsity q: 0.9706582828443877
+sparsity k: 0.9702214870323129
+sparsity v: 0.9705121306335034
+sparsity Attention q_chunks: 0.9706582828443877
+sparsity Attention k_chunks: 0.9702214870323129
+sparsity Attention v_chunks: 0.9705121306335034
+sparsity Attention postReshape q_chunks: 0.9706582828443877
+sparsity Attention postReshape k_chunks: 0.9702214870323129
+sparsity Attention postReshape v_chunks: 0.9705121306335034
+sparsity Attention out: 0.45860404708758506
+sparsity Attention postReshape output: 0.45860404708758506
+sparsity Attention postReshape x: 0.9999933567176871
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6310221354166667
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9706761366656037
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6282651732568028
+sparsity q: 0.969411006590136
+sparsity k: 0.9692150297619048
+sparsity v: 0.9693761293579932
+sparsity Attention q_chunks: 0.969411006590136
+sparsity Attention k_chunks: 0.9692150297619048
+sparsity Attention v_chunks: 0.9693761293579932
+sparsity Attention postReshape q_chunks: 0.969411006590136
+sparsity Attention postReshape k_chunks: 0.9692150297619048
+sparsity Attention postReshape v_chunks: 0.9693761293579932
+sparsity Attention out: 0.4210229990433674
+sparsity Attention postReshape output: 0.4210229990433674
+sparsity Attention postReshape x: 0.9999817309736394
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6287567761479591
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9691710180165817
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6273268096301021
+sparsity q: 0.9685722921981292
+sparsity k: 0.9684045493197279
+sparsity v: 0.968376315369898
+sparsity Attention q_chunks: 0.9685722921981292
+sparsity Attention k_chunks: 0.9684045493197279
+sparsity Attention v_chunks: 0.968376315369898
+sparsity Attention postReshape q_chunks: 0.9685722921981292
+sparsity Attention postReshape k_chunks: 0.9684045493197279
+sparsity Attention postReshape v_chunks: 0.968376315369898
+sparsity Attention out: 0.3922658907312925
+sparsity Attention postReshape output: 0.3922658907312925
+sparsity Attention postReshape x: 0.9999684444090136
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6277204241071428
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9683140345982143
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6262572411777211
+sparsity q: 0.9676771099064626
+sparsity k: 0.9677352386267006
+sparsity v: 0.9677169696003401
+sparsity Attention q_chunks: 0.9676771099064626
+sparsity Attention k_chunks: 0.9677352386267006
+sparsity Attention v_chunks: 0.9677169696003401
+sparsity Attention postReshape q_chunks: 0.9676771099064626
+sparsity Attention postReshape k_chunks: 0.9677352386267006
+sparsity Attention postReshape v_chunks: 0.9677169696003401
+sparsity Attention out: 0.3676508689413265
+sparsity Attention postReshape output: 0.3676508689413265
+sparsity Attention postReshape x: 0.9999684444090136
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6265379198554422
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9677763439360119
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6250099649234694
+sparsity q: 0.9671174133715986
+sparsity k: 0.9672386532738095
+sparsity v: 0.9669529921343537
+sparsity Attention q_chunks: 0.9671174133715986
+sparsity Attention k_chunks: 0.9672386532738095
+sparsity Attention v_chunks: 0.9669529921343537
+sparsity Attention postReshape q_chunks: 0.9671174133715986
+sparsity Attention postReshape k_chunks: 0.9672386532738095
+sparsity Attention postReshape v_chunks: 0.9669529921343537
+sparsity Attention out: 0.34556029443027214
+sparsity Attention postReshape output: 0.34556029443027214
+sparsity Attention postReshape x: 0.9999534970238095
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6249916958971089
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9670360331632653
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6235982674319728
+sparsity q: 0.9665759858630952
+sparsity k: 0.9667420679209183
+sparsity v: 0.9666092022746599
+sparsity Attention q_chunks: 0.9665759858630952
+sparsity Attention k_chunks: 0.9667420679209183
+sparsity Attention v_chunks: 0.9666092022746599
+sparsity Attention postReshape q_chunks: 0.9665759858630952
+sparsity Attention postReshape k_chunks: 0.9667420679209183
+sparsity Attention postReshape v_chunks: 0.9666092022746599
+sparsity Attention out: 0.33162600977891155
+sparsity Attention postReshape output: 0.33162600977891155
+sparsity Attention postReshape x: 0.9999584794855442
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.624440303465136
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9666527988148385
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6377899792729591
+sparsity q: 0.9755660076530612
+sparsity k: 0.9760493064413265
+sparsity v: 0.9758101482780612
+sparsity Attention q_chunks: 0.9755660076530612
+sparsity Attention k_chunks: 0.9760493064413265
+sparsity Attention v_chunks: 0.9758101482780612
+sparsity Attention postReshape q_chunks: 0.9755660076530612
+sparsity Attention postReshape k_chunks: 0.9760493064413265
+sparsity Attention postReshape v_chunks: 0.9758101482780612
+sparsity Attention out: 0.6317130367772108
+sparsity Attention postReshape output: 0.6317130367772108
+sparsity Attention postReshape x: 1.0
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6380540497448979
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9756046217315051
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6321182769982994
+sparsity q: 0.9723672672193877
+sparsity k: 0.9723788929634354
+sparsity v: 0.9722676179846939
+sparsity Attention q_chunks: 0.9723672672193877
+sparsity Attention k_chunks: 0.9723788929634354
+sparsity Attention v_chunks: 0.9722676179846939
+sparsity Attention postReshape q_chunks: 0.9723672672193877
+sparsity Attention postReshape k_chunks: 0.9723788929634354
+sparsity Attention postReshape v_chunks: 0.9722676179846939
+sparsity Attention out: 0.5263622050382653
+sparsity Attention postReshape output: 0.5263622050382653
+sparsity Attention postReshape x: 0.9999916958971088
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6325783242984694
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9722871326264881
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.629681853210034
+sparsity q: 0.9704257679634354
+sparsity k: 0.9706084582270408
+sparsity v: 0.9703227970875851
+sparsity Attention q_chunks: 0.9704257679634354
+sparsity Attention k_chunks: 0.9706084582270408
+sparsity Attention v_chunks: 0.9703227970875851
+sparsity Attention postReshape q_chunks: 0.9704257679634354
+sparsity Attention postReshape k_chunks: 0.9706084582270408
+sparsity Attention postReshape v_chunks: 0.9703227970875851
+sparsity Attention out: 0.4538507785926871
+sparsity Attention postReshape output: 0.4538507785926871
+sparsity Attention postReshape x: 0.9999933567176871
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.629653619260204
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9703850778592688
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6273816167091837
+sparsity q: 0.9691735092474489
+sparsity k: 0.9696069834183674
+sparsity v: 0.9693545386904762
+sparsity Attention q_chunks: 0.9691735092474489
+sparsity Attention k_chunks: 0.9696069834183674
+sparsity Attention v_chunks: 0.9693545386904762
+sparsity Attention postReshape q_chunks: 0.9691735092474489
+sparsity Attention postReshape k_chunks: 0.9696069834183674
+sparsity Attention postReshape v_chunks: 0.9693545386904762
+sparsity Attention out: 0.42073567708333337
+sparsity Attention postReshape output: 0.42073567708333337
+sparsity Attention postReshape x: 0.9999867134353742
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6279545998086735
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9691805677349065
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6262705277423469
+sparsity q: 0.9685224675807823
+sparsity k: 0.9681188881802721
+sparsity v: 0.9683862802933674
+sparsity Attention q_chunks: 0.9685224675807823
+sparsity Attention k_chunks: 0.9681188881802721
+sparsity Attention v_chunks: 0.9683862802933674
+sparsity Attention postReshape q_chunks: 0.9685224675807823
+sparsity Attention postReshape k_chunks: 0.9681188881802721
+sparsity Attention postReshape v_chunks: 0.9683862802933674
+sparsity Attention out: 0.3820468617134354
+sparsity Attention postReshape output: 0.3820468617134354
+sparsity Attention postReshape x: 0.9999534970238095
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6267338966836735
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9681878122342688
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6249418712797619
+sparsity q: 0.9673914487670068
+sparsity k: 0.9674379517431972
+sparsity v: 0.9674661856930272
+sparsity Attention q_chunks: 0.9673914487670068
+sparsity Attention k_chunks: 0.9674379517431972
+sparsity Attention v_chunks: 0.9674661856930272
+sparsity Attention postReshape q_chunks: 0.9673914487670068
+sparsity Attention postReshape k_chunks: 0.9674379517431972
+sparsity Attention postReshape v_chunks: 0.9674661856930272
+sparsity Attention out: 0.3577025536777211
+sparsity Attention postReshape output: 0.3577025536777211
+sparsity Attention postReshape x: 0.99997176605017
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6253554156037415
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9674902675914115
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6238058700042517
+sparsity q: 0.96701278167517
+sparsity k: 0.9668566645408163
+sparsity v: 0.9671473081420068
+sparsity Attention q_chunks: 0.96701278167517
+sparsity Attention k_chunks: 0.9668566645408163
+sparsity Attention v_chunks: 0.9671473081420068
+sparsity Attention postReshape q_chunks: 0.96701278167517
+sparsity Attention postReshape k_chunks: 0.9668566645408163
+sparsity Attention postReshape v_chunks: 0.9671473081420068
+sparsity Attention out: 0.34522813031462585
+sparsity Attention postReshape output: 0.34522813031462585
+sparsity Attention postReshape x: 0.9999435321003401
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6247492160926871
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9669509161086309
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6240882095025511
+sparsity q: 0.9666324537627551
+sparsity k: 0.9665161963222789
+sparsity v: 0.9665411086309523
+sparsity Attention q_chunks: 0.9666324537627551
+sparsity Attention k_chunks: 0.9665161963222789
+sparsity Attention v_chunks: 0.9665411086309523
+sparsity Attention postReshape q_chunks: 0.9666324537627551
+sparsity Attention postReshape k_chunks: 0.9665161963222789
+sparsity Attention postReshape v_chunks: 0.9665411086309523
+sparsity Attention out: 0.3312041613520408
+sparsity Attention postReshape output: 0.3312041613520408
+sparsity Attention postReshape x: 0.9999119765093537
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6243672273596939
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9663912195737671
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6380357807185374
+sparsity q: 0.9760592713647959
+sparsity k: 0.9758948501275511
+sparsity v: 0.9757021949404762
+sparsity Attention q_chunks: 0.9760592713647959
+sparsity Attention k_chunks: 0.9758948501275511
+sparsity Attention v_chunks: 0.9757021949404762
+sparsity Attention postReshape q_chunks: 0.9760592713647959
+sparsity Attention postReshape k_chunks: 0.9758948501275511
+sparsity Attention postReshape v_chunks: 0.9757021949404762
+sparsity Attention out: 0.6353136957908163
+sparsity Attention postReshape output: 0.6353136957908163
+sparsity Attention postReshape x: 1.0
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6380324590773809
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9758861308195153
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6327211548681972
+sparsity q: 0.9729419111394558
+sparsity k: 0.9729319462159864
+sparsity v: 0.9725433142006803
+sparsity Attention q_chunks: 0.9729419111394558
+sparsity Attention k_chunks: 0.9729319462159864
+sparsity Attention v_chunks: 0.9725433142006803
+sparsity Attention postReshape q_chunks: 0.9729419111394558
+sparsity Attention postReshape k_chunks: 0.9729319462159864
+sparsity Attention postReshape v_chunks: 0.9725433142006803
+sparsity Attention out: 0.5357690927933674
+sparsity Attention postReshape output: 0.5357690927933674
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6338206180909864
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9725516183035714
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6298147188562926
+sparsity q: 0.970875850340136
+sparsity k: 0.9706632653061225
+sparsity v: 0.9706483179209183
+sparsity Attention q_chunks: 0.970875850340136
+sparsity Attention k_chunks: 0.9706632653061225
+sparsity Attention v_chunks: 0.9706483179209183
+sparsity Attention postReshape q_chunks: 0.970875850340136
+sparsity Attention postReshape k_chunks: 0.9706632653061225
+sparsity Attention postReshape v_chunks: 0.9706483179209183
+sparsity Attention out: 0.462776028380102
+sparsity Attention postReshape output: 0.462776028380102
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6300040524022108
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9707267916932398
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6277586229804422
+sparsity q: 0.9694774394132653
+sparsity k: 0.9695056733630952
+sparsity v: 0.9695870535714286
+sparsity Attention q_chunks: 0.9694774394132653
+sparsity Attention k_chunks: 0.9695056733630952
+sparsity Attention v_chunks: 0.9695870535714286
+sparsity Attention postReshape q_chunks: 0.9694774394132653
+sparsity Attention postReshape k_chunks: 0.9695056733630952
+sparsity Attention postReshape v_chunks: 0.9695870535714286
+sparsity Attention out: 0.42684915763180276
+sparsity Attention postReshape output: 0.42684915763180276
+sparsity Attention postReshape x: 0.9999833917942177
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.628310015412415
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9694649832589286
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6262539195365646
+sparsity q: 0.9683879411139455
+sparsity k: 0.9685257892219388
+sparsity v: 0.968333134034864
+sparsity Attention q_chunks: 0.9683879411139455
+sparsity Attention k_chunks: 0.9685257892219388
+sparsity Attention v_chunks: 0.968333134034864
+sparsity Attention postReshape q_chunks: 0.9683879411139455
+sparsity Attention postReshape k_chunks: 0.9685257892219388
+sparsity Attention postReshape v_chunks: 0.968333134034864
+sparsity Attention out: 0.3907578656462585
+sparsity Attention postReshape output: 0.3907578656462585
+sparsity Attention postReshape x: 0.9999651227678571
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.628152237457483
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.968337701291454
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6272886107568028
+sparsity q: 0.9676372502125851
+sparsity k: 0.9677784199617347
+sparsity v: 0.9679860225340136
+sparsity Attention q_chunks: 0.9676372502125851
+sparsity Attention k_chunks: 0.9677784199617347
+sparsity Attention v_chunks: 0.9679860225340136
+sparsity Attention postReshape q_chunks: 0.9676372502125851
+sparsity Attention postReshape k_chunks: 0.9677784199617347
+sparsity Attention postReshape v_chunks: 0.9679860225340136
+sparsity Attention out: 0.37435061915391155
+sparsity Attention postReshape output: 0.37435061915391155
+sparsity Attention postReshape x: 0.9999601403061225
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.627398224914966
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9678008410395408
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6253404682185374
+sparsity q: 0.9670543021896258
+sparsity k: 0.9672120801445578
+sparsity v: 0.9673167118409864
+sparsity Attention q_chunks: 0.9670543021896258
+sparsity Attention k_chunks: 0.9672120801445578
+sparsity Attention v_chunks: 0.9673167118409864
+sparsity Attention postReshape q_chunks: 0.9670543021896258
+sparsity Attention postReshape k_chunks: 0.9672120801445578
+sparsity Attention postReshape v_chunks: 0.9673167118409864
+sparsity Attention out: 0.3490148012329932
+sparsity Attention postReshape output: 0.3490148012329932
+sparsity Attention postReshape x: 0.9999651227678571
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6257689599277211
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9670671735491071
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6241048177083333
+sparsity q: 0.9666307929421769
+sparsity k: 0.9665593776573129
+sparsity v: 0.9668234481292517
+sparsity Attention q_chunks: 0.9666307929421769
+sparsity Attention k_chunks: 0.9665593776573129
+sparsity Attention v_chunks: 0.9668234481292517
+sparsity Attention postReshape q_chunks: 0.9666307929421769
+sparsity Attention postReshape k_chunks: 0.9665593776573129
+sparsity Attention postReshape v_chunks: 0.9668234481292517
+sparsity Attention out: 0.33360404708758506
+sparsity Attention postReshape output: 0.33360404708758506
+sparsity Attention postReshape x: 0.9999335671768708
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6249667835884354
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9668554189253826
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6374644584396258
+sparsity q: 0.9758001833545918
+sparsity k: 0.976031037414966
+sparsity v: 0.9759994818239796
+sparsity Attention q_chunks: 0.9758001833545918
+sparsity Attention k_chunks: 0.976031037414966
+sparsity Attention v_chunks: 0.9759994818239796
+sparsity Attention postReshape q_chunks: 0.9758001833545918
+sparsity Attention postReshape k_chunks: 0.976031037414966
+sparsity Attention postReshape v_chunks: 0.9759994818239796
+sparsity Attention out: 0.6366041533801021
+sparsity Attention postReshape output: 0.6366041533801021
+sparsity Attention postReshape x: 0.9999983391794217
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6375043181335034
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.975725861633716
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6323806866496599
+sparsity q: 0.9725582615858843
+sparsity k: 0.9724320392219388
+sparsity v: 0.9725914779974489
+sparsity Attention q_chunks: 0.9725582615858843
+sparsity Attention k_chunks: 0.9724320392219388
+sparsity Attention v_chunks: 0.9725914779974489
+sparsity Attention postReshape q_chunks: 0.9725582615858843
+sparsity Attention postReshape k_chunks: 0.9724320392219388
+sparsity Attention postReshape v_chunks: 0.9725914779974489
+sparsity Attention out: 0.5274965454931972
+sparsity Attention postReshape output: 0.5274965454931972
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6326929209183674
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9725794370482568
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6296071162840136
+sparsity q: 0.9708359906462585
+sparsity k: 0.9708692070578231
+sparsity v: 0.9705669377125851
+sparsity Attention q_chunks: 0.9708359906462585
+sparsity Attention k_chunks: 0.9708692070578231
+sparsity Attention v_chunks: 0.9705669377125851
+sparsity Attention postReshape q_chunks: 0.9708359906462585
+sparsity Attention postReshape k_chunks: 0.9708692070578231
+sparsity Attention postReshape v_chunks: 0.9705669377125851
+sparsity Attention out: 0.4653851775085034
+sparsity Attention postReshape output: 0.4653851775085034
+sparsity Attention postReshape x: 0.9999883742559523
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6300754676870748
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9706591132546769
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6276490088222789
+sparsity q: 0.9694342580782312
+sparsity k: 0.9690622342687075
+sparsity v: 0.9693063748937075
+sparsity Attention q_chunks: 0.9694342580782312
+sparsity Attention k_chunks: 0.9690622342687075
+sparsity Attention v_chunks: 0.9693063748937075
+sparsity Attention postReshape q_chunks: 0.9694342580782312
+sparsity Attention postReshape k_chunks: 0.9690622342687075
+sparsity Attention postReshape v_chunks: 0.9693063748937075
+sparsity Attention out: 0.4183440954506803
+sparsity Attention postReshape output: 0.4183440954506803
+sparsity Attention postReshape x: 0.9999916958971088
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6282834422831632
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9693545386904762
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6266558381164966
+sparsity q: 0.9686968537414966
+sparsity k: 0.9686088302508503
+sparsity v: 0.9684493914753401
+sparsity Attention q_chunks: 0.9686968537414966
+sparsity Attention k_chunks: 0.9686088302508503
+sparsity Attention v_chunks: 0.9684493914753401
+sparsity Attention postReshape q_chunks: 0.9686968537414966
+sparsity Attention postReshape k_chunks: 0.9686088302508503
+sparsity Attention postReshape v_chunks: 0.9684493914753401
+sparsity Attention out: 0.3908242984693877
+sparsity Attention postReshape output: 0.3908242984693877
+sparsity Attention postReshape x: 0.9999750876913265
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.627340096194728
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.96835098785608
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6257888897746599
+sparsity q: 0.9678514960671769
+sparsity k: 0.9678896949404762
+sparsity v: 0.9678548177083334
+sparsity Attention q_chunks: 0.9678514960671769
+sparsity Attention k_chunks: 0.9678896949404762
+sparsity Attention v_chunks: 0.9678548177083334
+sparsity Attention postReshape q_chunks: 0.9678514960671769
+sparsity Attention postReshape k_chunks: 0.9678896949404762
+sparsity Attention postReshape v_chunks: 0.9678548177083334
+sparsity Attention out: 0.37087120004251706
+sparsity Attention postReshape output: 0.37087120004251706
+sparsity Attention postReshape x: 0.9999501753826531
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6262373113307823
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9676808467527636
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6248953683035714
+sparsity q: 0.9671589338860545
+sparsity k: 0.9674628640518708
+sparsity v: 0.9675973905187075
+sparsity Attention q_chunks: 0.9671589338860545
+sparsity Attention k_chunks: 0.9674628640518708
+sparsity Attention v_chunks: 0.9675973905187075
+sparsity Attention postReshape q_chunks: 0.9671589338860545
+sparsity Attention postReshape k_chunks: 0.9674628640518708
+sparsity Attention postReshape v_chunks: 0.9675973905187075
+sparsity Attention out: 0.3574750212585034
+sparsity Attention postReshape output: 0.3574750212585034
+sparsity Attention postReshape x: 0.9999667835884354
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6252142458545918
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9670626062925171
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6238440688775511
+sparsity q: 0.9666756350977891
+sparsity k: 0.9664763366284014
+sparsity v: 0.966537786989796
+sparsity Attention q_chunks: 0.9666756350977891
+sparsity Attention k_chunks: 0.9664763366284014
+sparsity Attention v_chunks: 0.966537786989796
+sparsity Attention postReshape q_chunks: 0.9666756350977891
+sparsity Attention postReshape k_chunks: 0.9664763366284014
+sparsity Attention postReshape v_chunks: 0.966537786989796
+sparsity Attention out: 0.331715694090136
+sparsity Attention postReshape output: 0.331715694090136
+sparsity Attention postReshape x: 0.9999385496386054
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.624166268069728
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9665386174000851
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6380606930272108
+sparsity q: 0.9757802535076531
+sparsity k: 0.9757055165816326
+sparsity v: 0.9755527210884354
+sparsity Attention q_chunks: 0.9757802535076531
+sparsity Attention k_chunks: 0.9757055165816326
+sparsity Attention v_chunks: 0.9755527210884354
+sparsity Attention postReshape q_chunks: 0.9757802535076531
+sparsity Attention postReshape k_chunks: 0.9757055165816326
+sparsity Attention postReshape v_chunks: 0.9755527210884354
+sparsity Attention out: 0.6321382068452381
+sparsity Attention postReshape output: 0.6321382068452381
+sparsity Attention postReshape x: 0.9999983391794217
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6382085060586735
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9755672532684949
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6328623246173469
+sparsity q: 0.9726180511267006
+sparsity k: 0.9726894664115646
+sparsity v: 0.9727642033375851
+sparsity Attention q_chunks: 0.9726180511267006
+sparsity Attention k_chunks: 0.9726894664115646
+sparsity Attention v_chunks: 0.9727642033375851
+sparsity Attention postReshape q_chunks: 0.9726180511267006
+sparsity Attention postReshape k_chunks: 0.9726894664115646
+sparsity Attention postReshape v_chunks: 0.9727642033375851
+sparsity Attention out: 0.5336581898384354
+sparsity Attention postReshape output: 0.5336581898384354
+sparsity Attention postReshape x: 1.0
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.633559869260204
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9724901679421769
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6304757254464286
+sparsity q: 0.9705204347363946
+sparsity k: 0.9702679900085034
+sparsity v: 0.9705951716624149
+sparsity Attention q_chunks: 0.9705204347363946
+sparsity Attention k_chunks: 0.9702679900085034
+sparsity Attention v_chunks: 0.9705951716624149
+sparsity Attention postReshape q_chunks: 0.9705204347363946
+sparsity Attention postReshape k_chunks: 0.9702679900085034
+sparsity Attention postReshape v_chunks: 0.9705951716624149
+sparsity Attention out: 0.4562290736607143
+sparsity Attention postReshape output: 0.4562290736607143
+sparsity Attention postReshape x: 0.9999966783588435
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6309191645408163
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9705287388392857
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.628275138180272
+sparsity q: 0.9696717554209183
+sparsity k: 0.9694641528486394
+sparsity v: 0.9694359188988095
+sparsity Attention q_chunks: 0.9696717554209183
+sparsity Attention k_chunks: 0.9694641528486394
+sparsity Attention v_chunks: 0.9694359188988095
+sparsity Attention postReshape q_chunks: 0.9696717554209183
+sparsity Attention postReshape k_chunks: 0.9694641528486394
+sparsity Attention postReshape v_chunks: 0.9694359188988095
+sparsity Attention out: 0.42366868622448983
+sparsity Attention postReshape output: 0.42366868622448983
+sparsity Attention postReshape x: 0.9999850526147959
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6285641209608843
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9693815270248725
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6268684231505102
+sparsity q: 0.9684676605017006
+sparsity k: 0.9684427481930272
+sparsity v: 0.9686304209183674
+sparsity Attention q_chunks: 0.9684676605017006
+sparsity Attention k_chunks: 0.9684427481930272
+sparsity Attention v_chunks: 0.9686304209183674
+sparsity Attention postReshape q_chunks: 0.9684676605017006
+sparsity Attention postReshape k_chunks: 0.9684427481930272
+sparsity Attention postReshape v_chunks: 0.9686304209183674
+sparsity Attention out: 0.3895853263180272
+sparsity Attention postReshape output: 0.3895853263180272
+sparsity Attention postReshape x: 0.9999667835884354
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6276490088222789
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9683181866496599
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6256161644345238
+sparsity q: 0.9675658349277211
+sparsity k: 0.9677136479591837
+sparsity v: 0.9680059523809523
+sparsity Attention q_chunks: 0.9675658349277211
+sparsity Attention k_chunks: 0.9677136479591837
+sparsity Attention v_chunks: 0.9680059523809523
+sparsity Attention postReshape q_chunks: 0.9675658349277211
+sparsity Attention postReshape k_chunks: 0.9677136479591837
+sparsity Attention postReshape v_chunks: 0.9680059523809523
+sparsity Attention out: 0.37078317655187076
+sparsity Attention postReshape output: 0.37078317655187076
+sparsity Attention postReshape x: 0.9999651227678571
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6262439546130952
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9675641741071429
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6247458944515306
+sparsity q: 0.9672237058886054
+sparsity k: 0.9669646178784014
+sparsity v: 0.9674927588222789
+sparsity Attention q_chunks: 0.9672237058886054
+sparsity Attention k_chunks: 0.9669646178784014
+sparsity Attention v_chunks: 0.9674927588222789
+sparsity Attention postReshape q_chunks: 0.9672237058886054
+sparsity Attention postReshape k_chunks: 0.9669646178784014
+sparsity Attention postReshape v_chunks: 0.9674927588222789
+sparsity Attention out: 0.3487208359906463
+sparsity Attention postReshape output: 0.3487208359906463
+sparsity Attention postReshape x: 0.9999485145620748
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.625021590667517
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.967033541932398
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6237842793367347
+sparsity q: 0.9664348161139455
+sparsity k: 0.9665344653486394
+sparsity v: 0.9664995881164966
+sparsity Attention q_chunks: 0.9664348161139455
+sparsity Attention k_chunks: 0.9665344653486394
+sparsity Attention v_chunks: 0.9664995881164966
+sparsity Attention postReshape q_chunks: 0.9664348161139455
+sparsity Attention postReshape k_chunks: 0.9665344653486394
+sparsity Attention postReshape v_chunks: 0.9664995881164966
+sparsity Attention out: 0.32957655718537415
+sparsity Attention postReshape output: 0.32957655718537415
+sparsity Attention postReshape x: 0.9999069940476191
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.624425356079932
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9663310148278061
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6379593829719388
+sparsity q: 0.9757952008928571
+sparsity k: 0.9756972124787415
+sparsity v: 0.9754746625212585
+sparsity Attention q_chunks: 0.9757952008928571
+sparsity Attention k_chunks: 0.9756972124787415
+sparsity Attention v_chunks: 0.9754746625212585
+sparsity Attention postReshape q_chunks: 0.9757952008928571
+sparsity Attention postReshape k_chunks: 0.9756972124787415
+sparsity Attention postReshape v_chunks: 0.9754746625212585
+sparsity Attention out: 0.6332742081207483
+sparsity Attention postReshape output: 0.6332742081207483
+sparsity Attention postReshape x: 0.9999966783588435
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6380988919005102
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.975578463807398
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.633157950680272
+sparsity q: 0.9725117586096939
+sparsity k: 0.9725582615858843
+sparsity v: 0.9725084369685374
+sparsity Attention q_chunks: 0.9725117586096939
+sparsity Attention k_chunks: 0.9725582615858843
+sparsity Attention v_chunks: 0.9725084369685374
+sparsity Attention postReshape q_chunks: 0.9725117586096939
+sparsity Attention postReshape k_chunks: 0.9725582615858843
+sparsity Attention postReshape v_chunks: 0.9725084369685374
+sparsity Attention out: 0.5234972895408163
+sparsity Attention postReshape output: 0.5234972895408163
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6329536697491497
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9725798522534014
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6300455729166667
+sparsity q: 0.9706898384353742
+sparsity k: 0.9709107275722789
+sparsity v: 0.9706250664328231
+sparsity Attention q_chunks: 0.9706898384353742
+sparsity Attention k_chunks: 0.9709107275722789
+sparsity Attention v_chunks: 0.9706250664328231
+sparsity Attention postReshape q_chunks: 0.9706898384353742
+sparsity Attention postReshape k_chunks: 0.9709107275722789
+sparsity Attention postReshape v_chunks: 0.9706250664328231
+sparsity Attention out: 0.4652257387329932
+sparsity Attention postReshape output: 0.4652257387329932
+sparsity Attention postReshape x: 0.9999933567176871
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6304292224702381
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9707512887967688
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6274696401998299
+sparsity q: 0.9695355681335034
+sparsity k: 0.9695953576743197
+sparsity v: 0.9697431707057823
+sparsity Attention q_chunks: 0.9695355681335034
+sparsity Attention k_chunks: 0.9695953576743197
+sparsity Attention v_chunks: 0.9697431707057823
+sparsity Attention postReshape q_chunks: 0.9695355681335034
+sparsity Attention postReshape k_chunks: 0.9695953576743197
+sparsity Attention postReshape v_chunks: 0.9697431707057823
+sparsity Attention out: 0.4270567602040817
+sparsity Attention postReshape output: 0.4270567602040817
+sparsity Attention postReshape x: 0.9999950175382653
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6287816884566326
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9695202055431548
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6266641422193877
+sparsity q: 0.9686254384566326
+sparsity k: 0.9685291108630952
+sparsity v: 0.9683547247023809
+sparsity Attention q_chunks: 0.9686254384566326
+sparsity Attention k_chunks: 0.9685291108630952
+sparsity Attention v_chunks: 0.9683547247023809
+sparsity Attention postReshape q_chunks: 0.9686254384566326
+sparsity Attention postReshape k_chunks: 0.9685291108630952
+sparsity Attention postReshape v_chunks: 0.9683547247023809
+sparsity Attention out: 0.39356963488520413
+sparsity Attention postReshape output: 0.39356963488520413
+sparsity Attention postReshape x: 0.9999850526147959
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6276606345663265
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9685303564785289
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6260147613732994
+sparsity q: 0.9676090162627551
+sparsity k: 0.9680092740221089
+sparsity v: 0.9676605017006803
+sparsity Attention q_chunks: 0.9676090162627551
+sparsity Attention k_chunks: 0.9680092740221089
+sparsity Attention v_chunks: 0.9676605017006803
+sparsity Attention postReshape q_chunks: 0.9676090162627551
+sparsity Attention postReshape k_chunks: 0.9680092740221089
+sparsity Attention postReshape v_chunks: 0.9676605017006803
+sparsity Attention out: 0.3705788956207483
+sparsity Attention postReshape output: 0.3705788956207483
+sparsity Attention postReshape x: 0.9999534970238095
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6264764694940477
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9676704666241497
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.6250033216411565
+sparsity q: 0.9671174133715986
+sparsity k: 0.9670576238307823
+sparsity v: 0.9667553544855442
+sparsity Attention q_chunks: 0.9671174133715986
+sparsity Attention k_chunks: 0.9670576238307823
+sparsity Attention v_chunks: 0.9667553544855442
+sparsity Attention postReshape q_chunks: 0.9671174133715986
+sparsity Attention postReshape k_chunks: 0.9670576238307823
+sparsity Attention postReshape v_chunks: 0.9667553544855442
+sparsity Attention out: 0.34119233630952384
+sparsity Attention postReshape output: 0.34119233630952384
+sparsity Attention postReshape x: 0.9999485145620748
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6254268308886055
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.966987454161352
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
+sparsity x_for_qkv: 0.624440303465136
+sparsity q: 0.9665510735544218
+sparsity k: 0.966667330994898
+sparsity v: 0.9664132254464286
+sparsity Attention q_chunks: 0.9665510735544218
+sparsity Attention k_chunks: 0.966667330994898
+sparsity Attention v_chunks: 0.9664132254464286
+sparsity Attention postReshape q_chunks: 0.9665510735544218
+sparsity Attention postReshape k_chunks: 0.966667330994898
+sparsity Attention postReshape v_chunks: 0.9664132254464286
+sparsity Attention out: 0.3303289089073129
+sparsity Attention postReshape output: 0.3303289089073129
+sparsity Attention postReshape x: 0.9999202806122449
+sparsity x: 0.0
+MLP sparsity x: 0.0
+MLP sparsity postLIF x after lif: 0.6248123272746599
+MLP sparsity postBN x after fc1: 0.0
+MLP sparsity postLIF x after fc2: 0.9664551611660289
+MLP sparsity postBN x after fc2ConvBn: 0.0
+MLP sparsity x after identity final: 0.0
