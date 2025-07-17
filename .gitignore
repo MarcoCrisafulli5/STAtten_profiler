@@ -1,4 +1,4 @@
-STAtten_model/cifar10
-STAtten_model/cifar100
-STAtten_model/Inaturalist
-STAtten_model/.git/*
+STAtten/cifar10
+STAtten/cifar100
+STAtten/Inaturalist
+STAtten/.git/*
