@@ -2,4 +2,5 @@ STAtten/cifar10
 STAtten/cifar100
 STAtten/Inaturalist
 STAtten/.git/*
+STAtten/profiling_output.csv
 .gitignore
