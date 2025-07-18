@@ -10,7 +10,7 @@ The model itself is a Spike Transformer with the Spatial Temporal Attention plug
 https://github.com/MarcoCrisafulli5/STAtten
 </link>
 
-##PROJECT STRUCTURE
+## PROJECT STRUCTURE
 \csv
   | - EncoderMeansExecSpuriFix.csv
   | - ModelTimesCifarSpuriFix.csv
