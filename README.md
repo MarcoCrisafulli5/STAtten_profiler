@@ -13,7 +13,7 @@ https://github.com/MarcoCrisafulli5/STAtten
 ## PROJECT STRUCTURE
 ```
 \csv
-  | - EncoderMeansExecSpuriFix.csv 
+  | - EncoderMeansExecSpuriFix.csv   
   | - ModelTimesCifarSpuriFix.csv  
   | - cap8.csv  
   | - chunks.csv 
