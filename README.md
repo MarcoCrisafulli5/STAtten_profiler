@@ -15,8 +15,8 @@ https://github.com/MarcoCrisafulli5/STAtten
 \csv
   | - EncoderMeansExecSpuriFix.csv  # csv containing average execution times of the Nth exec of the encoder (1 to 8)
   | - ModelTimesCifarSpuriFix.csv  # csv containing execution times of the model
-  | - cap8.csv  
-  | - chunks.csv  
+  | - cap8.csv  # csv containing sparsity values 
+  | - chunks.csv  # csv containing sparsity values 
   | - variance_analysis.csv  # csv containing information on sparsity of the tensor layers
 \txts_scripts
   | - cap8.txt  # capture of the model output using Random Tensor
