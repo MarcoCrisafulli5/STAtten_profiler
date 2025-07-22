@@ -29,4 +29,5 @@ README.md
 graphsCifar.ipynb
 ```
 ## About Sparsity
-*(where is it measured)[csv/STAttenSparsity.png]
+Here's an image representing where the sparsity is measured with the same naming scheme as the files mentioned before
+<img width="1237" height="696" alt="immagine" src="https://github.com/user-attachments/assets/58df8fd4-34e1-454e-a44f-109b9c4a8160" />
