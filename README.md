@@ -13,17 +13,17 @@ https://github.com/MarcoCrisafulli5/STAtten
 ## PROJECT STRUCTURE
 ```
 \csv
-  | - EncoderMeansExecSpuriFix.csv   
-  | - ModelTimesCifarSpuriFix.csv  
+  | - EncoderMeansExecSpuriFix.csv  # csv containing average execution times of the Nth exec of the encoder (1 to 8)
+  | - ModelTimesCifarSpuriFix.csv  # csv containing execution times of the model
   | - cap8.csv  
-  | - chunks.csv 
-  | - variance_analysis.csv  
+  | - chunks.csv  
+  | - variance_analysis.csv  # csv containing information on sparsity of the tensor layers
 \txts_scripts
-  | - cap8.txt
-  | - capCifar100Times_SparsSpuriFix.txt
-  | - txt_to_csv_EncoderMeans.py
-  | - txt_to_csv_SparsityScript.py
-  | - txt_to_csv_TimesCIFAR.py
+  | - cap8.txt  # capture of the model output using Random Tensor
+  | - capCifar100Times_SparsSpuriFix.txt  # capture of the model output using CIFAR dataset
+  | - txt_to_csv_EncoderMeans.py  # Script used to generate EncoderMeansExecSpuriFix.csv
+  | - txt_to_csv_SparsityScript.py  # Script used to generate variance_analysis.csv
+  | - txt_to_csv_TimesCIFAR.py  # Script used to generate ModelTimesCifarSpuriFix.csv
 .gitgnore
 README.md
 graphsCifar.ipynb
