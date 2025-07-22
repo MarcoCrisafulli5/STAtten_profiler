@@ -12,8 +12,7 @@ https://github.com/MarcoCrisafulli5/STAtten
 
 ## VISUAL REPRESENTATION OF THE MODEL
 
-<img width="1088" height="564" alt="immagine" src="https://github.com/user-attachments/assets/30df4002-607c-4878-bdcb-e514bc26f400" />
-
+<img width="1088" height="560" alt="immagine" src="https://github.com/user-attachments/assets/8008f551-91f4-4f3c-b7bd-8e7dee746da6" />
 
 
 ## PROJECT STRUCTURE
