@@ -10,6 +10,12 @@ The model itself is a Spike Transformer with the Spatial Temporal Attention plug
 https://github.com/MarcoCrisafulli5/STAtten
 </link>
 
+## VISUAL REPRESENTATION OF THE MODEL
+
+<img width="1088" height="564" alt="immagine" src="https://github.com/user-attachments/assets/30df4002-607c-4878-bdcb-e514bc26f400" />
+
+
+
 ## PROJECT STRUCTURE
 ```
 \csv
@@ -28,6 +34,6 @@ https://github.com/MarcoCrisafulli5/STAtten
 README.md
 graphsCifar.ipynb
 ```
-## About Sparsity
+## ABOUT SPARSITY
 Here's an image representing where the sparsity is measured with the same naming scheme as the files mentioned before
 <img width="1237" height="696" alt="immagine" src="https://github.com/user-attachments/assets/58df8fd4-34e1-454e-a44f-109b9c4a8160" />
