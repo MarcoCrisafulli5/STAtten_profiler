@@ -20,8 +20,8 @@ https://github.com/MarcoCrisafulli5/STAtten
 \csv
   | - EncoderMeansExecSpuriFix.csv  # csv containing average execution times of the Nth exec of the encoder (1 to 8)
   | - ModelTimesCifarSpuriFix.csv  # csv containing execution times of the model
-  | - cap8.csv  # csv containing sparsity values 
-  | - chunks.csv  # csv containing sparsity values 
+  | - EncoderVariablesSparsity.csv  # csv containing sparsity values 
+  | - AttentionOutTensorChunks.csv  # csv containing sparsity values 
   | - variance_analysis.csv  # csv containing information on sparsity of the tensor layers
 \txts_scripts
   | - cap8.txt  # capture of the model output using Random Tensor
@@ -36,3 +36,8 @@ graphsCifar.ipynb
 ## ABOUT SPARSITY
 Here's an image representing where the sparsity is measured with the same naming scheme as the files mentioned before
 <img width="1237" height="696" alt="immagine" src="https://github.com/user-attachments/assets/58df8fd4-34e1-454e-a44f-109b9c4a8160" />
+
+
+Here's an image representing the Tensor shapes given CIFAR100 inputs and shows where output_x and x_x from file "AttentionOutTensorChunks.csv" are measured.
+<img width="1282" height="936" alt="immagine" src="https://github.com/user-attachments/assets/87124c24-5f37-4930-aec4-0175bb63d878" />
+
