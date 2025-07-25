@@ -21,7 +21,7 @@ https://github.com/MarcoCrisafulli5/STAtten
   | - EncoderMeansExecSpuriFix.csv  # csv containing average execution times of the Nth exec of the encoder (1 to 8)
   | - ModelTimesCifarSpuriFix.csv  # csv containing execution times of the model
   | - EncoderVariablesSparsity.csv  # csv containing sparsity values of variables in the encoder, each column contains a variable and each line represents the average of the Nth execution of the encoder (N from 1 to 8) (each input is processed 8 times by the encoder). Variables are shown in the image below.
-  | - AttentionOutTensorChunks.csv  # csv containing sparsity values of variables output_x and x_x. Each column contains the value that Nth dimension of the tensor assumes when given an input. There are 80 lines and the encoder executes 8 times per input, so 8 lines represents an execution over an image.
+  | - AttentionOutTensorChunks.csv  # csv containing sparsity values of variables output_x and x_x. Each column contains the value that Nth dimension of the tensor assumes when given an input. There are 80 lines and the encoder executes 8 times per input, so 8 lines represents an execution over an image. 10 images total from CIFAR100.
   | - variance_analysis.csv  # csv containing information on sparsity of the tensor layers
 \txts_scripts
   | - cap8.txt  # capture of the model output using Random Tensor
