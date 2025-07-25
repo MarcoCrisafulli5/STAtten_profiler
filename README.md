@@ -20,7 +20,7 @@ https://github.com/MarcoCrisafulli5/STAtten
 \csv
   | - EncoderMeansExecSpuriFix.csv  # csv containing average execution times of the Nth exec of the encoder (1 to 8)
   | - ModelTimesCifarSpuriFix.csv  # csv containing execution times of the model
-  | - EncoderVariablesSparsity.csv  # csv containing sparsity values 
+  | - EncoderVariablesSparsity.csv  # csv containing sparsity values of variables in the encoder, each column contains a variable and each line represents the average of the Nth execution of the encoder (N from 1 to 8) (each input is processed 8 times by the encoder). Variables are shown in the image below.
   | - AttentionOutTensorChunks.csv  # csv containing sparsity values 
   | - variance_analysis.csv  # csv containing information on sparsity of the tensor layers
 \txts_scripts
@@ -34,7 +34,7 @@ README.md
 graphsCifar.ipynb
 ```
 ## ABOUT SPARSITY
-Here's an image representing where the sparsity is measured with the same naming scheme as the files mentioned before
+Here's an image representing where the sparsity is measured with the same naming scheme as the file "EncoderVariablesSparsity.csv" mentioned before
 <img width="1237" height="696" alt="immagine" src="https://github.com/user-attachments/assets/58df8fd4-34e1-454e-a44f-109b9c4a8160" />
 
 
